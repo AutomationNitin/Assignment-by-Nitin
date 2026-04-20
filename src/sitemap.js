@@ -1,10 +1,11 @@
 const { fetchWithTimeout } = require('./utils/http');
+const { normalizePageUrl, normalizeSitemapUrl } = require('./utils/urls');
 
 async function fetchSitemapUrls(sitemapUrl, options) {
   const visited = new Set();
   const pageUrls = [];
 
-  await walkSitemap(sitemapUrl, visited, pageUrls, options);
+  await walkSitemap(normalizeSitemapUrl(sitemapUrl), visited, pageUrls, options, 0);
 
   const unique = [...new Set(pageUrls)];
   if (options.maxUrls > 0) {
@@ -14,9 +15,17 @@ async function fetchSitemapUrls(sitemapUrl, options) {
   return unique;
 }
 
-async function walkSitemap(sitemapUrl, visited, pageUrls, options) {
+async function walkSitemap(sitemapUrl, visited, pageUrls, options, depth) {
+  if (depth > options.maxSitemapDepth) {
+    throw new Error(`Sitemap nesting exceeds the allowed depth of ${options.maxSitemapDepth}.`);
+  }
+
   if (visited.has(sitemapUrl)) {
     return;
+  }
+
+  if (visited.size >= options.maxSitemaps) {
+    throw new Error(`Sitemap traversal exceeded the limit of ${options.maxSitemaps} sitemap files.`);
   }
 
   visited.add(sitemapUrl);
@@ -34,13 +43,23 @@ async function walkSitemap(sitemapUrl, visited, pageUrls, options) {
     throw new Error(`Unable to fetch sitemap ${sitemapUrl} (HTTP ${response.status})`);
   }
 
+  const contentType = response.headers.get('content-type') || '';
+  if (contentType && !/(xml|text\/plain|application\/octet-stream)/i.test(contentType)) {
+    throw new Error(`Sitemap ${sitemapUrl} returned an unexpected content type: ${contentType}`);
+  }
+
+  const contentLength = Number.parseInt(response.headers.get('content-length') || '', 10);
+  if (Number.isFinite(contentLength) && contentLength > options.maxSitemapBytes) {
+    throw new Error(`Sitemap ${sitemapUrl} exceeds the size limit of ${options.maxSitemapBytes} bytes.`);
+  }
+
   const xml = await response.text();
-  validateXmlContent(xml, sitemapUrl);
+  validateXmlContent(xml, sitemapUrl, options.maxSitemapBytes);
 
   const nestedSitemaps = extractSitemapLocs(xml);
   if (nestedSitemaps.length > 0) {
     for (const nestedSitemapUrl of nestedSitemaps) {
-      await walkSitemap(nestedSitemapUrl, visited, pageUrls, options);
+      await walkSitemap(nestedSitemapUrl, visited, pageUrls, options, depth + 1);
 
       if (options.maxUrls > 0 && pageUrls.length >= options.maxUrls) {
         return;
@@ -53,9 +72,13 @@ async function walkSitemap(sitemapUrl, visited, pageUrls, options) {
   pageUrls.push(...urlLocs);
 }
 
-function validateXmlContent(xml, sitemapUrl) {
+function validateXmlContent(xml, sitemapUrl, maxSitemapBytes) {
   if (typeof xml !== 'string' || !xml.trim()) {
     throw new Error(`Sitemap ${sitemapUrl} returned an empty response.`);
+  }
+
+  if (Buffer.byteLength(xml, 'utf8') > maxSitemapBytes) {
+    throw new Error(`Sitemap ${sitemapUrl} exceeds the size limit of ${maxSitemapBytes} bytes.`);
   }
 
   if (!/<(urlset|sitemapindex)\b/i.test(xml)) {
@@ -66,24 +89,30 @@ function validateXmlContent(xml, sitemapUrl) {
 function extractSitemapLocs(xml) {
   const sitemapBlocks = [...xml.matchAll(/<sitemap\b[\s\S]*?<\/sitemap>/gi)];
   return sitemapBlocks
-    .map((match) => extractSingleLoc(match[0]))
+    .map((match) => extractSingleLoc(match[0], normalizeSitemapUrl))
     .filter(Boolean);
 }
 
 function extractUrlLocs(xml) {
   const urlBlocks = [...xml.matchAll(/<url\b[\s\S]*?<\/url>/gi)];
   return urlBlocks
-    .map((match) => extractSingleLoc(match[0]))
+    .map((match) => extractSingleLoc(match[0], normalizePageUrl))
     .filter(Boolean);
 }
 
-function extractSingleLoc(xmlFragment) {
+function extractSingleLoc(xmlFragment, normalizer) {
   const match = xmlFragment.match(/<loc>([\s\S]*?)<\/loc>/i);
   if (!match) {
     return '';
   }
 
-  return decodeXmlEntities(match[1].trim());
+  const rawValue = decodeXmlEntities(match[1].trim());
+
+  try {
+    return normalizer(rawValue);
+  } catch (_) {
+    return '';
+  }
 }
 
 function decodeXmlEntities(value) {

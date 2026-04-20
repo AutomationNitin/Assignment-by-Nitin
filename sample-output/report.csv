@@ -1,5 +1,5 @@
 Page Name,Page URL,Category,Status Code,Response Time (ms),Error
-"Homepage","http://127.0.0.1:57969/","Healthy","200","13.11",""
-"Profile Page","http://127.0.0.1:57969/profile-page.html","Healthy","200","11.01",""
-"Redirect Me","http://127.0.0.1:57969/redirect-me","Redirected","302","10.48",""
-"Missing Page","http://127.0.0.1:57969/missing-page.html","Broken","404","15.03",""
+"Homepage","http://127.0.0.1:49946/","Healthy","200","6.89",""
+"Profile Page","http://127.0.0.1:49946/profile-page.html","Healthy","200","10.29",""
+"Redirect Me","http://127.0.0.1:49946/redirect-me","Redirected","302","10.56",""
+"Missing Page","http://127.0.0.1:49946/missing-page.html","Broken","404","10.7",""

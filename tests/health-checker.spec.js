@@ -4,6 +4,7 @@ const { test, expect } = require('@playwright/test');
 const { fetchSitemapUrls } = require('../src/sitemap');
 const { runHealthCheck } = require('../src/health-checker');
 const { categorizeStatus, derivePageName } = require('../src/url-checker');
+const { normalizeSitemapUrl, resolveReportPath } = require('../src/utils/urls');
 
 test.describe('sitemap health checker', () => {
   test('derives page names and categories correctly', async () => {
@@ -12,6 +13,17 @@ test.describe('sitemap health checker', () => {
     expect(categorizeStatus(200)).toBe('Healthy');
     expect(categorizeStatus(302)).toBe('Redirected');
     expect(categorizeStatus(404)).toBe('Broken');
+  });
+
+  test('normalizes and validates URLs safely', async () => {
+    expect(normalizeSitemapUrl('https://example.com/sitemap.xml#frag')).toBe('https://example.com/sitemap.xml');
+    expect(() => normalizeSitemapUrl('ftp://example.com/sitemap.xml')).toThrow(/Only HTTP and HTTPS/);
+    expect(() => normalizeSitemapUrl('https://user:pass@example.com/sitemap.xml')).toThrow(/Credentials are not allowed/);
+  });
+
+  test('rejects report paths outside the project', async () => {
+    expect(() => resolveReportPath('reports/output.json')).not.toThrow();
+    expect(() => resolveReportPath('..\\outside.json')).toThrow(/must stay within the current project directory/);
   });
 
   test('reads nested sitemaps and builds a summary report', async () => {

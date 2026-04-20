@@ -3,6 +3,9 @@ const DEFAULTS = {
   timeoutMs: 10000,
   retries: 2,
   maxUrls: 0,
+  maxSitemaps: 50,
+  maxSitemapDepth: 5,
+  maxSitemapBytes: 5 * 1024 * 1024,
 };
 
 function parseCliArgs(args) {
@@ -47,6 +50,18 @@ function parseCliArgs(args) {
         options.maxUrls = toNonNegativeInteger(next, 'max-urls');
         index += 1;
         break;
+      case '--max-sitemaps':
+        options.maxSitemaps = toPositiveInteger(next, 'max-sitemaps');
+        index += 1;
+        break;
+      case '--max-depth':
+        options.maxSitemapDepth = toNonNegativeInteger(next, 'max-depth');
+        index += 1;
+        break;
+      case '--max-sitemap-bytes':
+        options.maxSitemapBytes = toPositiveInteger(next, 'max-sitemap-bytes');
+        index += 1;
+        break;
       case '--json':
         options.outputJson = next || '';
         index += 1;
@@ -75,6 +90,9 @@ Options:
   --timeout, -t       Request timeout in milliseconds (default: 10000)
   --retries, -r       Retry attempts for failed requests (default: 2)
   --max-urls          Limit the number of page URLs processed (default: unlimited)
+  --max-sitemaps      Limit nested sitemap files that can be traversed (default: 50)
+  --max-depth         Limit nested sitemap depth (default: 5)
+  --max-sitemap-bytes Reject oversized sitemap XML responses (default: 5242880)
   --json              Write the report to a JSON file
   --csv               Write the report to a CSV file
   --help, -h          Show this help message

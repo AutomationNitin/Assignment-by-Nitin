@@ -1,15 +1,15 @@
 const fs = require('node:fs/promises');
-const path = require('node:path');
+const { resolveReportPath } = require('../utils/urls');
 
 async function writeJsonReport(report, targetPath) {
-  const resolvedPath = path.resolve(targetPath);
+  const resolvedPath = resolveReportPath(targetPath);
   await ensureParentDirectory(resolvedPath);
   await fs.writeFile(resolvedPath, JSON.stringify(report, null, 2), 'utf8');
   return resolvedPath;
 }
 
 async function writeCsvReport(report, targetPath) {
-  const resolvedPath = path.resolve(targetPath);
+  const resolvedPath = resolveReportPath(targetPath);
   await ensureParentDirectory(resolvedPath);
 
   const lines = [
@@ -29,7 +29,7 @@ async function writeCsvReport(report, targetPath) {
 }
 
 async function ensureParentDirectory(filePath) {
-  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  await fs.mkdir(require('node:path').dirname(filePath), { recursive: true });
 }
 
 function csvEscape(value) {

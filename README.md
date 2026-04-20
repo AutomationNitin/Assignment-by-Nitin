@@ -57,6 +57,9 @@ npm.cmd run check:sitemap -- --sitemap https://example.com/sitemap.xml
 --timeout <ms>           Request timeout in milliseconds
 --retries <number>       Retry count for failed requests
 --max-urls <number>      Limit processed page URLs
+--max-sitemaps <number>  Limit nested sitemap files
+--max-depth <number>     Limit nested sitemap depth
+--max-sitemap-bytes <n>  Reject oversized sitemap responses
 --json <path>            Export JSON report
 --csv <path>             Export CSV report
 ```
@@ -94,6 +97,9 @@ It also prints:
 - A `4xx`, `5xx`, timeout, or network error is considered `Broken`
 - Page names are derived from the URL path
 - Duplicate URLs are only checked once
+- Only `http` and `https` URLs are accepted
+- Output report paths must stay inside the project directory
+- Sitemap traversal is bounded by depth, file count, and response size
 
 ## Sample Run
 
