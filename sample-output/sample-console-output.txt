@@ -1,0 +1,16 @@
+Sitemap URL Health Report
+Sitemap: http://127.0.0.1:<port>/sitemap.xml
+Generated: 2026-04-20T05:48:17.919Z
+
+Page Name     | Page URL                                   | Category   | Status Code | Response Time (ms)
+Homepage      | http://127.0.0.1:<port>/                   | Healthy    | 200         | 13.11
+Profile Page  | http://127.0.0.1:<port>/profile-page.html  | Healthy    | 200         | 11.01
+Redirect Me   | http://127.0.0.1:<port>/redirect-me        | Redirected | 302         | 10.48
+Missing Page  | http://127.0.0.1:<port>/missing-page.html  | Broken     | 404         | 15.03
+
+Summary
+Total URLs processed: 4
+Healthy URLs: 2
+Redirected URLs: 1
+Broken URLs: 1
+Average response time: 12.41 ms

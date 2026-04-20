@@ -1,0 +1,2843 @@
+{
+  "sitemapUrl": "https://sunrisespices.in/sitemap.xml",
+  "generatedAt": "2026-04-20T12:46:37.396Z",
+  "options": {
+    "concurrency": 20,
+    "timeoutMs": 10000,
+    "retries": 2,
+    "maxUrls": 0
+  },
+  "results": [
+    {
+      "pageName": "Homepage",
+      "pageUrl": "https://sunrisespices.in/",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.9,
+      "error": ""
+    },
+    {
+      "pageName": "Blogs",
+      "pageUrl": "https://sunrisespices.in/blogs.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 102.43,
+      "error": ""
+    },
+    {
+      "pageName": "How To Use Cumin",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-use-cumin.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 402.73,
+      "error": ""
+    },
+    {
+      "pageName": "How To Use Ajwain",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-use-ajwain.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 721.15,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Breakfast Dishes You Must Try",
+      "pageUrl": "https://sunrisespices.in/blogs/bengali-breakfast-dishes-you-must-try.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 97.45,
+      "error": ""
+    },
+    {
+      "pageName": "How To Use Cardamom",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-use-cardamom.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 353.04,
+      "error": ""
+    },
+    {
+      "pageName": "Turmeric The Golden Spice Of India",
+      "pageUrl": "https://sunrisespices.in/blogs/turmeric-the-golden-spice-of-india.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 1151.68,
+      "error": ""
+    },
+    {
+      "pageName": "How To Choose The Best Chilli Powder For Your Recipes",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-choose-the-best-chilli-powder-for-your-recipes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 344.39,
+      "error": ""
+    },
+    {
+      "pageName": "Exploring Different Varieties Of Mustard From Yellow To Brown",
+      "pageUrl": "https://sunrisespices.in/blogs/exploring-different-varieties-of-mustard-from-yellow-to-brown.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 88.58,
+      "error": ""
+    },
+    {
+      "pageName": "Top 5 Most Expensive Spices",
+      "pageUrl": "https://sunrisespices.in/blogs/top-5-most-expensive-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 1877.22,
+      "error": ""
+    },
+    {
+      "pageName": "6 Vegetarian Assamese Thali",
+      "pageUrl": "https://sunrisespices.in/blogs/6-vegetarian-assamese-thali.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 3849,
+      "error": ""
+    },
+    {
+      "pageName": "How To Start Your Own Spice Garden",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-start-your-own-spice-garden.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 337.05,
+      "error": ""
+    },
+    {
+      "pageName": "5 Must Try Bengali Dishes",
+      "pageUrl": "https://sunrisespices.in/blogs/5-must-try-bengali-dishes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 834.86,
+      "error": ""
+    },
+    {
+      "pageName": "Different Assamese Dishes And Cuisine",
+      "pageUrl": "https://sunrisespices.in/blogs/different-assamese-dishes-and-cuisine.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 105.98,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Fish Cuisine",
+      "pageUrl": "https://sunrisespices.in/blogs/bengali-fish-cuisine.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 2884.8,
+      "error": ""
+    },
+    {
+      "pageName": "Meghalaya Traditional Food Culture",
+      "pageUrl": "https://sunrisespices.in/blogs/meghalaya-traditional-food-culture.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 489.2,
+      "error": ""
+    },
+    {
+      "pageName": "Famous Kolkatas Street Food",
+      "pageUrl": "https://sunrisespices.in/blogs/famous-kolkatas-street-food.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 569.84,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Panch Phoran",
+      "pageUrl": "https://sunrisespices.in/blogs/bengali-panch-phoran.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 2907,
+      "error": ""
+    },
+    {
+      "pageName": "Indian Spice Mix Masala",
+      "pageUrl": "https://sunrisespices.in/blogs/indian-spice-mix-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 332.78,
+      "error": ""
+    },
+    {
+      "pageName": "Uses Of Kasuri Methi",
+      "pageUrl": "https://sunrisespices.in/blogs/uses-of-kasuri-methi.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 822.34,
+      "error": ""
+    },
+    {
+      "pageName": "Assamese Spices And Cooking",
+      "pageUrl": "https://sunrisespices.in/blogs/assamese-spices-and-cooking.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 70.65,
+      "error": ""
+    },
+    {
+      "pageName": "Types Of Chilli Powder And Uses",
+      "pageUrl": "https://sunrisespices.in/blogs/types-of-chilli-powder-and-uses.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 21.85,
+      "error": ""
+    },
+    {
+      "pageName": "Holi Festival Sweets And Special Dishes",
+      "pageUrl": "https://sunrisespices.in/blogs/holi-festival-sweets-and-special-dishes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.3,
+      "error": ""
+    },
+    {
+      "pageName": "History Of Litthi Chokha",
+      "pageUrl": "https://sunrisespices.in/blogs/history-of-litthi-chokha.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 82.69,
+      "error": ""
+    },
+    {
+      "pageName": "Amchur Powder Uses",
+      "pageUrl": "https://sunrisespices.in/blogs/amchur-powder-uses.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.27,
+      "error": ""
+    },
+    {
+      "pageName": "Dishes With Poppy Seeds",
+      "pageUrl": "https://sunrisespices.in/blogs/dishes-with-poppy-seeds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.66,
+      "error": ""
+    },
+    {
+      "pageName": "Tips For Cooking Indian Spices",
+      "pageUrl": "https://sunrisespices.in/blogs/tips-for-cooking-indian-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 20.36,
+      "error": ""
+    },
+    {
+      "pageName": "Dishes Using Pav Bhaji Masala",
+      "pageUrl": "https://sunrisespices.in/blogs/dishes-using-pav-bhaji-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.83,
+      "error": ""
+    },
+    {
+      "pageName": "Kala Jeera Vs Cumin",
+      "pageUrl": "https://sunrisespices.in/blogs/kala-jeera-vs-cumin.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 59.42,
+      "error": ""
+    },
+    {
+      "pageName": "How To Use Methi Seeds In Recipes",
+      "pageUrl": "https://sunrisespices.in/blogs/how-to-use-methi-seeds-in-recipes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 152.86,
+      "error": ""
+    },
+    {
+      "pageName": "8 Must Try Bihu Festival Food",
+      "pageUrl": "https://sunrisespices.in/blogs/8-must-try-bihu-festival-food.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 143.87,
+      "error": ""
+    },
+    {
+      "pageName": "Jaljeera Masala Summer Refreshment",
+      "pageUrl": "https://sunrisespices.in/blogs/jaljeera-masala-summer-refreshment.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 13.67,
+      "error": ""
+    },
+    {
+      "pageName": "Kitchen King Masala Ultimate Spice Blend",
+      "pageUrl": "https://sunrisespices.in/blogs/kitchen-king-masala-ultimate-spice-blend.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 50.26,
+      "error": ""
+    },
+    {
+      "pageName": "Meat Masala Uses",
+      "pageUrl": "https://sunrisespices.in/blogs/meat-masala-uses.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.29,
+      "error": ""
+    },
+    {
+      "pageName": "Black Pepper Vs White Pepper",
+      "pageUrl": "https://sunrisespices.in/blogs/black-pepper-vs-white-pepper.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 65.01,
+      "error": ""
+    },
+    {
+      "pageName": "Importance Of Chaat Masala",
+      "pageUrl": "https://sunrisespices.in/blogs/importance-of-chaat-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.37,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Indian Spices",
+      "pageUrl": "https://sunrisespices.in/blogs/authentic-indian-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 44.15,
+      "error": ""
+    },
+    {
+      "pageName": "Cardamom Cumin And Coriander The Three Cs Of Indian Spices",
+      "pageUrl": "https://sunrisespices.in/blogs/cardamom-cumin-and-coriander-the-three-cs-of-indian-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.08,
+      "error": ""
+    },
+    {
+      "pageName": "Our Products",
+      "pageUrl": "https://sunrisespices.in/our-products.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 78.59,
+      "error": ""
+    },
+    {
+      "pageName": "Kashmiri Chilli Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/kashmiri-chilli-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 351.15,
+      "error": ""
+    },
+    {
+      "pageName": "Shukto Masala Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/shukto-masala-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 18.33,
+      "error": ""
+    },
+    {
+      "pageName": "Garam Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/garam-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 251.43,
+      "error": ""
+    },
+    {
+      "pageName": "Aloo Dum Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/aloo-dum-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.2,
+      "error": ""
+    },
+    {
+      "pageName": "Biryani Pulav Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/biryani-pulav-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 239.3,
+      "error": ""
+    },
+    {
+      "pageName": "Amchur Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/amchur-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 131.13,
+      "error": ""
+    },
+    {
+      "pageName": "Kitchen King Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/kitchen-king-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 56.82,
+      "error": ""
+    },
+    {
+      "pageName": "Ground Black Pepper",
+      "pageUrl": "https://sunrisespices.in/our-products/ground-black-pepper.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 26.55,
+      "error": ""
+    },
+    {
+      "pageName": "Chaat Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/chaat-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 55.1,
+      "error": ""
+    },
+    {
+      "pageName": "Coriander Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/coriander-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 83.72,
+      "error": ""
+    },
+    {
+      "pageName": "Chow Mix Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/chow-mix-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 351.65,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Butter Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/paneer-butter-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 64.08,
+      "error": ""
+    },
+    {
+      "pageName": "Chana Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/chana-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 155.43,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Black Pepper",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-black-pepper.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 145.05,
+      "error": ""
+    },
+    {
+      "pageName": "Jaljeera Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/jaljeera-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 64.64,
+      "error": ""
+    },
+    {
+      "pageName": "Ground Cumin",
+      "pageUrl": "https://sunrisespices.in/our-products/ground-cumin.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 274.96,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Curry Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/chicken-curry-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 30.39,
+      "error": ""
+    },
+    {
+      "pageName": "Jeera",
+      "pageUrl": "https://sunrisespices.in/our-products/jeera.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 237.72,
+      "error": ""
+    },
+    {
+      "pageName": "Kasuri Methi",
+      "pageUrl": "https://sunrisespices.in/our-products/kasuri-methi.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 326.4,
+      "error": ""
+    },
+    {
+      "pageName": "Macher Jhol Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/macher-jhol-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 71.13,
+      "error": ""
+    },
+    {
+      "pageName": "Masala Papad",
+      "pageUrl": "https://sunrisespices.in/our-products/masala-papad.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.99,
+      "error": ""
+    },
+    {
+      "pageName": "Meat Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/meat-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 141.4,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Ajwain",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-ajwain.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.07,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Kala Jeera",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-kala-jeera.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 395.8,
+      "error": ""
+    },
+    {
+      "pageName": "Pasta Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/pasta-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.47,
+      "error": ""
+    },
+    {
+      "pageName": "Pav Bhaji Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/pav-bhaji-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 252.15,
+      "error": ""
+    },
+    {
+      "pageName": "Plain Papad",
+      "pageUrl": "https://sunrisespices.in/our-products/plain-papad.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 364.74,
+      "error": ""
+    },
+    {
+      "pageName": "Powdered Mustard",
+      "pageUrl": "https://sunrisespices.in/our-products/powdered-mustard.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 18.69,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Methi Seeds",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-methi-seeds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 53.97,
+      "error": ""
+    },
+    {
+      "pageName": "Punjabi Papad",
+      "pageUrl": "https://sunrisespices.in/our-products/punjabi-papad.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 263.42,
+      "error": ""
+    },
+    {
+      "pageName": "Red Chilli Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/red-chilli-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 146.38,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Rai",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-rai.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 247.35,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Poppy Seeds",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-poppy-seeds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 118.98,
+      "error": ""
+    },
+    {
+      "pageName": "Whole Brown Mustard",
+      "pageUrl": "https://sunrisespices.in/our-products/whole-brown-mustard.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.95,
+      "error": ""
+    },
+    {
+      "pageName": "Red Chilli Flakes",
+      "pageUrl": "https://sunrisespices.in/our-products/red-chilli-flakes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 50.81,
+      "error": ""
+    },
+    {
+      "pageName": "Tej Red Chilli Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/tej-red-chilli-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 52.81,
+      "error": ""
+    },
+    {
+      "pageName": "Turmeric Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/turmeric-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 54.92,
+      "error": ""
+    },
+    {
+      "pageName": "Egg Curry Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/egg-curry-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 330.82,
+      "error": ""
+    },
+    {
+      "pageName": "Haah Salkumura Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/haah-salkumura-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 98.49,
+      "error": ""
+    },
+    {
+      "pageName": "Magic Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/magic-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 231.43,
+      "error": ""
+    },
+    {
+      "pageName": "Sabji Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/sabji-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 353.6,
+      "error": ""
+    },
+    {
+      "pageName": "Sambar Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/sambar-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 228.51,
+      "error": ""
+    },
+    {
+      "pageName": "Shahi Garam Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/shahi-garam-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 25.47,
+      "error": ""
+    },
+    {
+      "pageName": "Shorshe Posto Powder",
+      "pageUrl": "https://sunrisespices.in/our-products/shorshe-posto-powder.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 47.45,
+      "error": ""
+    },
+    {
+      "pageName": "Tadka Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/tadka-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 14.37,
+      "error": ""
+    },
+    {
+      "pageName": "Tarkari Masala",
+      "pageUrl": "https://sunrisespices.in/our-products/tarkari-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 438.52,
+      "error": ""
+    },
+    {
+      "pageName": "Panch Phoran",
+      "pageUrl": "https://sunrisespices.in/our-products/panch-phoran.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 387.72,
+      "error": ""
+    },
+    {
+      "pageName": "Saunf",
+      "pageUrl": "https://sunrisespices.in/our-products/saunf.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.16,
+      "error": ""
+    },
+    {
+      "pageName": "Hing",
+      "pageUrl": "https://sunrisespices.in/our-products/hing.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 233.37,
+      "error": ""
+    },
+    {
+      "pageName": "Clove",
+      "pageUrl": "https://sunrisespices.in/our-products/clove.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 384.78,
+      "error": ""
+    },
+    {
+      "pageName": "Radhuni",
+      "pageUrl": "https://sunrisespices.in/our-products/radhuni.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 18.47,
+      "error": ""
+    },
+    {
+      "pageName": "Sarso Yellow",
+      "pageUrl": "https://sunrisespices.in/our-products/sarso-yellow.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.76,
+      "error": ""
+    },
+    {
+      "pageName": "Chhoti Elaichi",
+      "pageUrl": "https://sunrisespices.in/our-products/chhoti-elaichi.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 232.07,
+      "error": ""
+    },
+    {
+      "pageName": "Recipe Collection",
+      "pageUrl": "https://sunrisespices.in/recipe-collection.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.32,
+      "error": ""
+    },
+    {
+      "pageName": "Aloo Paratha Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aloo-paratha-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.83,
+      "error": ""
+    },
+    {
+      "pageName": "Shahi Chicken Korma Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/shahi-chicken-korma-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 145.65,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Bhetki Paturi Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-bhetki-paturi-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 15.62,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Hakka Noodle Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-hakka-noodle-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.91,
+      "error": ""
+    },
+    {
+      "pageName": "Chole Bhature Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chole-bhature-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.72,
+      "error": ""
+    },
+    {
+      "pageName": "Bhoger Khichuri Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhoger-khichuri-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 425.78,
+      "error": ""
+    },
+    {
+      "pageName": "Fish Fry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/fish-fry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 33.85,
+      "error": ""
+    },
+    {
+      "pageName": "Pepper Chicken Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pepper-chicken-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.26,
+      "error": ""
+    },
+    {
+      "pageName": "Vegetable Jalfrezi Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/vegetable-jalfrezi-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 73.96,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Aloo Dum Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-aloo-dum-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.19,
+      "error": ""
+    },
+    {
+      "pageName": "Kakrar Jhal Spicy Bengali Crab Curry With Mustard Zing",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kakrar-jhal-spicy-bengali-crab-curry-with-mustard-zing.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.81,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Fish Fry With A Twist Of Poppy Seeds Vermicelli And Semolina",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-fish-fry-with-a-twist-of-poppy-seeds-vermicelli-and-semolina.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.45,
+      "error": ""
+    },
+    {
+      "pageName": "Leftover Dal Cheela Savoury Lentil Pancakes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/leftover-dal-cheela-savoury-lentil-pancakes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.96,
+      "error": ""
+    },
+    {
+      "pageName": "Mutton Nuna Gosht Simplest Bengali Mutton Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mutton-nuna-gosht-simplest-bengali-mutton-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.37,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Fried Bhetki Fillets With Honey Mustard Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-fried-bhetki-fillets-with-honey-mustard-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.27,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Prawn Toasts With Zesty Chilli Panko",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-prawn-toasts-with-zesty-chilli-panko.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39,
+      "error": ""
+    },
+    {
+      "pageName": "A Royal Mealtime Treasure Veg Mughlai Handi",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/a-royal-mealtime-treasure-veg-mughlai-handi.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.42,
+      "error": ""
+    },
+    {
+      "pageName": "Veg Peel Kebab Recipe Veg Kebabs With Vegetable Peels",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/veg-peel-kebab-recipe-veg-kebabs-with-vegetable-peels.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 33.79,
+      "error": ""
+    },
+    {
+      "pageName": "Zesty Chicken Honey Mustard Sandwich Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/zesty-chicken-honey-mustard-sandwich-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.46,
+      "error": ""
+    },
+    {
+      "pageName": "Mustard Chilli Mayo Creamy Condiment For Every Snack",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mustard-chilli-mayo-creamy-condiment-for-every-snack.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.18,
+      "error": ""
+    },
+    {
+      "pageName": "Burani Raita Silky Curd With Crispy Garlic And Cumin",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/burani-raita-silky-curd-with-crispy-garlic-and-cumin.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.71,
+      "error": ""
+    },
+    {
+      "pageName": "Zingy Tomato Jeera Salsa Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/zingy-tomato-jeera-salsa-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.88,
+      "error": ""
+    },
+    {
+      "pageName": "Refreshing Mint Chutney With Amchur And Chaat Masala",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/refreshing-mint-chutney-with-amchur-and-chaat-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 74.95,
+      "error": ""
+    },
+    {
+      "pageName": "Fried Chicken Crispy Spicy Indian Style Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/fried-chicken-crispy-spicy-indian-style-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.08,
+      "error": ""
+    },
+    {
+      "pageName": "Indian Snack Favourite Spiced Corn And Cheese Balls",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/indian-snack-favourite-spiced-corn-and-cheese-balls.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.02,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Kurkuri Bhindi Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-kurkuri-bhindi-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.42,
+      "error": ""
+    },
+    {
+      "pageName": "Tandoori Paneer Tikka On A Tawa",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tandoori-paneer-tikka-on-a-tawa.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.95,
+      "error": ""
+    },
+    {
+      "pageName": "Papri Chaat Recipe Street Food Classic",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/papri-chaat-recipe-street-food-classic.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.84,
+      "error": ""
+    },
+    {
+      "pageName": "How To Make Creamy Paneer Korma With Onion Cashew Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/how-to-make-creamy-paneer-korma-with-onion-cashew-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.8,
+      "error": ""
+    },
+    {
+      "pageName": "Easy Rozana Mutton Curry A Classic Bengali Mutton Dish",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/easy-rozana-mutton-curry-a-classic-bengali-mutton-dish.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.8,
+      "error": ""
+    },
+    {
+      "pageName": "Pomfret Macher Jhal Aromatic Bengali Pomfret Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pomfret-macher-jhal-aromatic-bengali-pomfret-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.7,
+      "error": ""
+    },
+    {
+      "pageName": "Spiced Chicken Liver Saute With Onions And Tomatoes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spiced-chicken-liver-saute-with-onions-and-tomatoes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.21,
+      "error": ""
+    },
+    {
+      "pageName": "Soft Creamy Paneer In Onion Gravy With Whole Spices",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/soft-creamy-paneer-in-onion-gravy-with-whole-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.36,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Doodh Potol Creamy Potol In A Spiced Milk Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-doodh-potol-creamy-potol-in-a-spiced-milk-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 277.67,
+      "error": ""
+    },
+    {
+      "pageName": "Masaledar Aloo Chatka Quick And Spicy Potato Stir Fry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/masaledar-aloo-chatka-quick-and-spicy-potato-stir-fry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 55.64,
+      "error": ""
+    },
+    {
+      "pageName": "Zero Oil Chicken Paneer Kofta Healthy Mughlai Meatball",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/zero-oil-chicken-paneer-kofta-healthy-mughlai-meatball.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42,
+      "error": ""
+    },
+    {
+      "pageName": "Niramish Chhanar Kalia Paneer Koftas In Pure Veg Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/niramish-chhanar-kalia-paneer-koftas-in-pure-veg-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 53.69,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Vermicelli Coated Potato Nest With Paneer Eggs",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-vermicelli-coated-potato-nest-with-paneer-eggs.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.5,
+      "error": ""
+    },
+    {
+      "pageName": "Dum Pukht Mutton Bhuna Masala Spicy Smoked Mutton Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/dum-pukht-mutton-bhuna-masala-spicy-smoked-mutton-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.65,
+      "error": ""
+    },
+    {
+      "pageName": "Hariyali Chicken Tikka Recipe Chicken In Spinach Parcel",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/hariyali-chicken-tikka-recipe-chicken-in-spinach-parcel.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.19,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Assamese Mati Dali Khar Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-assamese-mati-dali-khar-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 44.66,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Assamese Recipe Posola Chicken",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-assamese-recipe-posola-chicken.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.21,
+      "error": ""
+    },
+    {
+      "pageName": "Soya Kebab Recipe Protein Rich Veg Seekh Kebabs",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/soya-kebab-recipe-protein-rich-veg-seekh-kebabs.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 47.24,
+      "error": ""
+    },
+    {
+      "pageName": "Potato 65 Crispy Spicy South Indian Snack",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/potato-65-crispy-spicy-south-indian-snack.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.82,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Paneer Makhani Recipe In Rich Tomato Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-paneer-makhani-recipe-in-rich-tomato-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.61,
+      "error": ""
+    },
+    {
+      "pageName": "Masala Peanut Salad Recipe Protein Rich Salad",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/masala-peanut-salad-recipe-protein-rich-salad.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.95,
+      "error": ""
+    },
+    {
+      "pageName": "Tomato Dates Chutney Sweet Tangy Bengali Relish",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tomato-dates-chutney-sweet-tangy-bengali-relish.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.11,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Kolkata Style Chicken Rezala Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-kolkata-style-chicken-rezala-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.94,
+      "error": ""
+    },
+    {
+      "pageName": "Navratan Korma Rich Creamy 9 Gem Vegetarian Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/navratan-korma-rich-creamy-9-gem-vegetarian-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.05,
+      "error": ""
+    },
+    {
+      "pageName": "Mutton Kosha Recipe Tender Mutton In A Rich Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mutton-kosha-recipe-tender-mutton-in-a-rich-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.52,
+      "error": ""
+    },
+    {
+      "pageName": "Niramish Dim Recipe Potato Eggs In Spicy Tomato Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/niramish-dim-recipe-potato-eggs-in-spicy-tomato-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.54,
+      "error": ""
+    },
+    {
+      "pageName": "Motiwali Dal With Paneer Kofta Bengali Dal With Cheese Balls",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/motiwali-dal-with-paneer-kofta-bengali-dal-with-cheese-balls.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 127.04,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Prawn Lollipops Fried Whole Prawn Balls",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-prawn-lollipops-fried-whole-prawn-balls.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 59.01,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Pasinda Stuffed Paneer Pockets In A Nutty Curd Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/paneer-pasinda-stuffed-paneer-pockets-in-a-nutty-curd-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 192.89,
+      "error": ""
+    },
+    {
+      "pageName": "Black Pepper Chicken",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/black-pepper-chicken.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.45,
+      "error": ""
+    },
+    {
+      "pageName": "Chatpata Chalistani",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chatpata-chalistani.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 50.85,
+      "error": ""
+    },
+    {
+      "pageName": "Karela Peas Momo With Tomato Soup And Coriander Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/karela-peas-momo-with-tomato-soup-and-coriander-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.83,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Tangy Delectable Indian Style Orange Chicken",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-tangy-delectable-indian-style-orange-chicken.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.82,
+      "error": ""
+    },
+    {
+      "pageName": "Echor Chingrir Shahi Kofta Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/echor-chingrir-shahi-kofta-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.08,
+      "error": ""
+    },
+    {
+      "pageName": "Machher Madhukheera Creamy Bengali Style Rohu Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/machher-madhukheera--creamy-bengali-style-rohu-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.98,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Kadam Steamed Chicken Meatball Coated With Rice",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-kadam-steamed-chicken-meatball-coated-with-rice.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 70.58,
+      "error": ""
+    },
+    {
+      "pageName": "Cheese Stuffed Chicken Koftas In Tangy Creamy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/cheese-stuffed-chicken-koftas-in-tangy--creamy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 112.88,
+      "error": ""
+    },
+    {
+      "pageName": "Golden Veg Nargisi Koftas I Thick Tomato Cashew Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/golden-veg-nargisi-koftas-i-thick-tomato-cashew-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.31,
+      "error": ""
+    },
+    {
+      "pageName": "Chingri Bodhua Prawns With Coconut Gravy Served On Cabbage Leaves",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chingri-bodhua-prawns-with-coconut-gravy-served-on-cabbage-leaves.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 33.63,
+      "error": ""
+    },
+    {
+      "pageName": "Murg E Khaas Creamy And Nutty Rajasthani Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/murg-e-khaas-creamy-and-nutty-rajasthani-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 44.37,
+      "error": ""
+    },
+    {
+      "pageName": "Jhaal Narkel Chingri Prawns In A Spicy Coconut Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/jhaal-narkel-chingri-prawns-in-a-spicy-coconut-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.45,
+      "error": ""
+    },
+    {
+      "pageName": "Butter Paneer Masala Paneer In Spiced Tomato Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/butter-paneer-masala-paneer-in-spiced-tomato-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.39,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Chhaddabeshi Kalia Soybean Fish Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-chhaddabeshi-kalia-soybean-fish-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.13,
+      "error": ""
+    },
+    {
+      "pageName": "Badhakopir Chaap Cabbage Fritters In Rich Cashew Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/badhakopir-chaap-cabbage-fritters-in-rich-cashew-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.4,
+      "error": ""
+    },
+    {
+      "pageName": "Aloo Potol Chingri Dom Prawn Curry With Potol And Aloo",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aloo-potol-chingri-dom-prawn-curry-with-potol-and-aloo.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.17,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Muitha Succulent Bengali Chicken Kofta Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-muitha-succulent-bengali-chicken-kofta-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.59,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Kochur Lotir Jhaal With Mustard And Coconut",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-kochur-lotir-jhaal-with-mustard-and-coconut.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.62,
+      "error": ""
+    },
+    {
+      "pageName": "Bhetki Maachher Patisapta Fish Rolled In Thin Crepes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhetki-maachher-patisapta-fish-rolled-in-thin-crepes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.38,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Thorer Bora Crispy Banana Stem Fritters",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-thorer-bora-crispy-banana-stem-fritters.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.38,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Fish Biryani Fragrant Rice Fried Fish",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-fish-biryani-fragrant-rice-fried-fish.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.84,
+      "error": ""
+    },
+    {
+      "pageName": "Cholar Dal Fragrant Split Bengal Gram With Coconut",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/cholar-dal-fragrant-split-bengal-gram-with-coconut.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.07,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Begun Bhaja Crispy Fried Aubergine Slices",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-begun-bhaja-crispy-fried-aubergine-slices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.81,
+      "error": ""
+    },
+    {
+      "pageName": "Masala Potato Sandwich Recipe Tangy Indian Starter",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/masala-potato-sandwich-recipe-tangy-indian-starter.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.94,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Kathi Roll A Wholesome Kolkata Wrap",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-kathi-roll-a-wholesome-kolkata-wrap.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.5,
+      "error": ""
+    },
+    {
+      "pageName": "Masor Tenga Assamese Tangy Fish Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/masor-tenga-assamese-tangy-fish-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 28.13,
+      "error": ""
+    },
+    {
+      "pageName": "Kerala Style Kappa Tapioca Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kerala-style-kappa-tapioca-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.94,
+      "error": ""
+    },
+    {
+      "pageName": "Easy Crisp Spiced Masala Potato Wedges Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/easy-crisp-spiced-masala-potato-wedges-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.72,
+      "error": ""
+    },
+    {
+      "pageName": "Kashmiri Dum Aloo Paneer Filled Potatoes In Rich Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kashmiri-dum-aloo-paneer-filled-potatoes-in-rich-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.01,
+      "error": ""
+    },
+    {
+      "pageName": "Mutton Rara Mutton Pieces With Mutton Keema",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mutton-rara-mutton-pieces-with-mutton-keema.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 46.9,
+      "error": ""
+    },
+    {
+      "pageName": "Achaari Mutton Mutton With Homemade Achari Flavour",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/achaari-mutton-mutton-with-homemade-achari-flavour.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 61.34,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Fulkopir Roast With Coconut And Cashew Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/paneer-fulkopir-roast-with-coconut-and-cashew-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 98.95,
+      "error": ""
+    },
+    {
+      "pageName": "Ilish Lebur Ullash Tangy Spiced Hilsa Fish Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/ilish-lebur-ullash-tangy-spiced-hilsa-fish-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 187.72,
+      "error": ""
+    },
+    {
+      "pageName": "Soyabean Malaikari Coconut Creamy Soyabean Malai Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/soyabean-malaikari-coconut-creamy-soyabean-malai-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 44.31,
+      "error": ""
+    },
+    {
+      "pageName": "Doi Posto Katla Bengali Catfish In Curd Mustard Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/doi-posto-katla-bengali-catfish-in-curd-mustard-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.94,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Seekh Malai Chicken Seekh Kebab In Malai Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-seekh-malai-chicken-seekh-kebab-in-malai-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.6,
+      "error": ""
+    },
+    {
+      "pageName": "How To Make Oven Baked Cheesy Chicken Veggies Fusion",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/how-to-make-oven-baked-cheesy-chicken-veggies-fusion.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 50.05,
+      "error": ""
+    },
+    {
+      "pageName": "Chingrir Malaikari Bengali Prawns In Creamy Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chingrir-malaikari-bengali-prawns-in-creamy-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.98,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Maharani Royal Chicken Curry In Creamy Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-maharani-royal-chicken-curry-in-creamy-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 64.31,
+      "error": ""
+    },
+    {
+      "pageName": "Easy Dhania Mushroom Recipe For A Quick And Easy Meal",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/easy-dhania-mushroom-recipe-for-a-quick-and-easy-meal.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 55.8,
+      "error": ""
+    },
+    {
+      "pageName": "Prawn Pulao Recipe Fragrant Rice With Tender Prawns",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/prawn-pulao-recipe-fragrant-rice-with-tender-prawns.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 52.49,
+      "error": ""
+    },
+    {
+      "pageName": "Shahi Katlar Kalia Recipe Bengali Fried Fish With Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/shahi-katlar-kalia-recipe-bengali-fried-fish-with-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 53.09,
+      "error": ""
+    },
+    {
+      "pageName": "Kadhai Murgh Recipe Chicken Simmered In Spiced Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kadhai-murgh-recipe-chicken-simmered-in-spiced-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.82,
+      "error": ""
+    },
+    {
+      "pageName": "Kaleja Matar Masala Liver And Peas In Aromatic Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kaleja-matar-masala-liver-and-peas-in-aromatic-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.15,
+      "error": ""
+    },
+    {
+      "pageName": "Fruit Basket Recipe Healthy Snacks Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/fruit-basket-recipe-healthy-snacks-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.9,
+      "error": ""
+    },
+    {
+      "pageName": "Dhania Aloo Dum Baby Potatoes Infused With Coriander",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/dhania-aloo-dum-baby-potatoes-infused-with-coriander.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.66,
+      "error": ""
+    },
+    {
+      "pageName": "Pan Fried Bengali Style Fish With Carom Seeds",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pan-fried-bengali-style-fish-with-carom-seeds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.54,
+      "error": ""
+    },
+    {
+      "pageName": "Gobi Matar Tehri Flavoursome Vegetable Rice Medley",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/gobi-matar-tehri-flavoursome-vegetable-rice-medley.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.86,
+      "error": ""
+    },
+    {
+      "pageName": "Salli Jardaloo Murgh Parsi Style Chicken With Apricots",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/salli-jardaloo-murgh-parsi-style-chicken-with-apricots.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.54,
+      "error": ""
+    },
+    {
+      "pageName": "Batter Fried Bhetki Fish Bengali Biyebari Style",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/batter-fried-bhetki-fish-bengali-biyebari-style.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.78,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Kismis Korma Recipe Raisin Paneer Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/paneer-kismis-korma-recipe-raisin-paneer-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.79,
+      "error": ""
+    },
+    {
+      "pageName": "Tomato Dhonepata Rui A Tangy Bengali Fish Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tomato-dhonepata-rui-a-tangy-bengali-fish-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.4,
+      "error": ""
+    },
+    {
+      "pageName": "Begun Bahar Roasted Eggplant Delight",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/begun-bahar-roasted-eggplant-delight.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 61.52,
+      "error": ""
+    },
+    {
+      "pageName": "Thai Street Noodles Spicy Stir Fried Noodle Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/thai-street-noodles-spicy-stir-fried-noodle-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.05,
+      "error": ""
+    },
+    {
+      "pageName": "Shorshe Posto Murgi Recipe Bengali Style Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/shorshe-posto-murgi-recipe-bengali-style-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 50.07,
+      "error": ""
+    },
+    {
+      "pageName": "Anarosh Ilish A Bengali Dish With Hilsa Pineapple",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/anarosh-ilish-a-bengali-dish-with-hilsa-pineapple.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.65,
+      "error": ""
+    },
+    {
+      "pageName": "Chatpata Dum Aloo Recipe Spicy Saucy Baby Potatoes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chatpata-dum-aloo-recipe-spicy-saucy-baby-potatoes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.87,
+      "error": ""
+    },
+    {
+      "pageName": "Ilish Tel Jhal Recipe Authentic Bengali Hilsa Fish Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/ilish-tel-jhal-recipe-authentic-bengali-hilsa-fish-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.23,
+      "error": ""
+    },
+    {
+      "pageName": "Methi Murgh Recipe Aromatic Punjabi Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/methi-murgh-recipe-aromatic-punjabi-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.1,
+      "error": ""
+    },
+    {
+      "pageName": "Tawa Sabji Spicy Veg Stir Fry In A Tomato Onion Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tawa-sabji-spicy-veg-stir-fry-in-a-tomato-onion-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.33,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Matar Pav Bhaji North Indian Street Food Snack",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/paneer-matar-pav-bhaji-north-indian-street-food-snack.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 46.76,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Style Prawns In Mustard Coconut Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-style-prawns-in-mustard-coconut-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 316.56,
+      "error": ""
+    },
+    {
+      "pageName": "Lahori Murg Curry Spicy Chicken In Creamy Cashew Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/lahori-murg-curry-spicy-chicken-in-creamy-cashew-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.68,
+      "error": ""
+    },
+    {
+      "pageName": "Classic Chitol Muitthya In Spiced Bengali Style Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/classic-chitol-muitthya-in-spiced-bengali-style-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.58,
+      "error": ""
+    },
+    {
+      "pageName": "Hariye Jawa Chhanar Paturi Bengali Style Chhana Parcel",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/hariye-jawa-chhanar-paturi-bengali-style-chhana-parcel.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.43,
+      "error": ""
+    },
+    {
+      "pageName": "Spicy Creamy Bahari Paneer Recipe With Peppers And Nuts",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spicy-creamy-bahari-paneer-recipe-with-peppers-and-nuts.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 47.83,
+      "error": ""
+    },
+    {
+      "pageName": "Egg In A Hole Chicken Sausage Chicken Sausage With Egg",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/egg-in-a-hole-chicken-sausage-chicken-sausage-with-egg.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 209.48,
+      "error": ""
+    },
+    {
+      "pageName": "Kochu Chingri Kofta Curry Prawns In Creamy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kochu-chingri-kofta-curry-prawns-in-creamy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 77.25,
+      "error": ""
+    },
+    {
+      "pageName": "Hot And Sweet Katla A Sweet N Spicy Bengali Speciality",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/hot-and-sweet-katla-a-sweet-n-spicy-bengali-speciality.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.94,
+      "error": ""
+    },
+    {
+      "pageName": "Krishnokoli Rui Rohu In Cauliflower Leaf Jeera Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/krishnokoli-rui-rohu-in-cauliflower-leaf-jeera-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.55,
+      "error": ""
+    },
+    {
+      "pageName": "Kakrar Malaikari Rich Crab Curry In Coconut Milk Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kakrar-malaikari-rich-crab-curry-in-coconut-milk-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.2,
+      "error": ""
+    },
+    {
+      "pageName": "Reshmi Shahzadi Paneer Creamy Koftas In Rich Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/reshmi-shahzadi-paneer-creamy-koftas-in-rich-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 84.81,
+      "error": ""
+    },
+    {
+      "pageName": "Moong Fulkopir Dhoka Traditional Dhoka In Spiced Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/moong-fulkopir-dhoka-traditional-dhoka-in-spiced-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.72,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Tiger Prawns In A Vibrant And Creamy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-tiger-prawns-in-a-vibrant-and-creamy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.57,
+      "error": ""
+    },
+    {
+      "pageName": "Classic Kolkata Style Egg Biryani With Fried Potatoes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/classic-kolkata-style-egg-biryani-with-fried-potatoes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.1,
+      "error": ""
+    },
+    {
+      "pageName": "How To Make Bengali Style Chicken Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/how-to-make-bengali-style-chicken-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.67,
+      "error": ""
+    },
+    {
+      "pageName": "Sabji Masala Curry Bengali Style Mixed Veggies Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/sabji-masala-curry-bengali-style-mixed-veggies-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.75,
+      "error": ""
+    },
+    {
+      "pageName": "Lasauni Fish Tikka Masala Fish In Creamy Garlic Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/lasauni-fish-tikka-masala-fish-in-creamy-garlic-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 92.06,
+      "error": ""
+    },
+    {
+      "pageName": "Aloo Chingri Bengali Style Prawns With Masala Potatoes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aloo-chingri-bengali-style-prawns-with-masala-potatoes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 77.53,
+      "error": ""
+    },
+    {
+      "pageName": "Egg Lababdar Mughlai Style Creamy Egg Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/egg-lababdar-mughlai-style-creamy-egg-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 18.6,
+      "error": ""
+    },
+    {
+      "pageName": "Homemade Dabeli Spicy Potato And Peanut Stuffed Pav",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/homemade-dabeli-spicy-potato-and-peanut-stuffed-pav.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.72,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Bengali Shukto Recipe With Mixed Vegetables",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-bengali-shukto-recipe-with-mixed-vegetables.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 24.61,
+      "error": ""
+    },
+    {
+      "pageName": "Spicy Mangsher Bhuna Classic Bengali Mutton Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spicy-mangsher-bhuna-classic-bengali-mutton-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.45,
+      "error": ""
+    },
+    {
+      "pageName": "Tender Fish Galawti Kebabs Cooked On Tawa",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tender-fish-galawti-kebabs-cooked-on-tawa.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 40.98,
+      "error": ""
+    },
+    {
+      "pageName": "Healthy Nutrients Packed Palak Chicken Steam Kebab",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/healthy-nutrients-packed-palak-chicken-steam-kebab.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.73,
+      "error": ""
+    },
+    {
+      "pageName": "Highway Anda Tadka Recipe A Spicy Egg Topped Lentil Stew",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/highway-anda-tadka-recipe-a-spicy-egg-topped-lentil-stew.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.44,
+      "error": ""
+    },
+    {
+      "pageName": "Mochar Paturi Authentic Bengali Banana Blossom Parcels",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mochar-paturi-authentic-bengali-banana-blossom-parcels.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.5,
+      "error": ""
+    },
+    {
+      "pageName": "Bhangachora Shukto Recipe Bengali Fish Head Stew",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhangachora-shukto-recipe-bengali-fish-head-stew.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.93,
+      "error": ""
+    },
+    {
+      "pageName": "Mahi Amritsari Recipe Crispy Deep Fried Fish Fillet",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mahi-amritsari-recipe-crispy-deep-fried-fish-fillet.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 84.29,
+      "error": ""
+    },
+    {
+      "pageName": "Tok Mishti Murgir Korma Sweet Tangy Bengali Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tok-mishti-murgir-korma-sweet-tangy-bengali-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.82,
+      "error": ""
+    },
+    {
+      "pageName": "Amritsari Chicken Curry Recipe With Black Pepper Kick",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/amritsari-chicken-curry-recipe-with-black-pepper-kick.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.56,
+      "error": ""
+    },
+    {
+      "pageName": "Tiger Prawns In Coconut Mustard Narkel Shorshe Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tiger-prawns-in-coconut-mustard-narkel-shorshe-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 68.65,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Dak Bungalow Recipe Colonial Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-dak-bungalow-recipe-colonial-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 33.42,
+      "error": ""
+    },
+    {
+      "pageName": "Pabda Surobhi Recipe Bengali Fish Curry With Mustard Burst",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pabda-surobhi-recipe-bengali-fish-curry-with-mustard-burst.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 60.65,
+      "error": ""
+    },
+    {
+      "pageName": "Mutton Bhuna Tender Goat Meat Slow Cooked In Spices",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mutton-bhuna-tender-goat-meat-slow-cooked-in-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 58.73,
+      "error": ""
+    },
+    {
+      "pageName": "Goyna Aloor Dum Decorative Bengali Dum Aloo",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/goyna-aloor-dum-decorative-bengali-dum-aloo.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.13,
+      "error": ""
+    },
+    {
+      "pageName": "Corn Malai Mushroom Corn Mushroom Gravy With Popcorn",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/corn-malai-mushroom-corn-mushroom-gravy-with-popcorn.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 47.56,
+      "error": ""
+    },
+    {
+      "pageName": "Capsi Corn Creamy Sweet Corn Capsicum Masala Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/capsi-corn-creamy-sweet-corn-capsicum-masala-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.13,
+      "error": ""
+    },
+    {
+      "pageName": "Matar Paneer Recipe Green Peas And Paneer Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/matar-paneer-recipe-green-peas-and-paneer-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.31,
+      "error": ""
+    },
+    {
+      "pageName": "Begum Pulao Rich Rice Pulao With Paneer And Beetroot",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/begum-pulao-rich-rice-pulao-with-paneer-and-beetroot.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 47.3,
+      "error": ""
+    },
+    {
+      "pageName": "How To Make Boyal Fish And Banana Stem Stir Fry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/how-to-make-boyal-fish-and-banana-stem-stir-fry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 75.48,
+      "error": ""
+    },
+    {
+      "pageName": "Bandhakopir Shahi Korma Cabbage In Rich Mughlai Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bandhakopir-shahi-korma-cabbage-in-rich-mughlai-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.75,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Rosogolla Korma Soft Rosogollas In Creamy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-rosogolla-korma-soft-rosogollas-in-creamy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.64,
+      "error": ""
+    },
+    {
+      "pageName": "Tangra Machher Dopiyaza Bengali Fish Curry With Onions",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/tangra-machher-dopiyaza-bengali-fish-curry-with-onions.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.07,
+      "error": ""
+    },
+    {
+      "pageName": "Keema Chola Mutton Chana Masala Delight",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/keema-chola-mutton-chana-masala-delight.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45,
+      "error": ""
+    },
+    {
+      "pageName": "Sheemer Bharta Classic Bengali Broad Bean Mash Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/sheemer-bharta-classic-bengali-broad-bean-mash-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.67,
+      "error": ""
+    },
+    {
+      "pageName": "Mutton Keema Rara Spiced Minced Mutton Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mutton-keema-rara-spiced-minced-mutton-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.34,
+      "error": ""
+    },
+    {
+      "pageName": "Homestyle Paneer Tikka Quick Spicy Paneer Tikka Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/homestyle-paneer-tikka-quick-spicy-paneer-tikka-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 17.55,
+      "error": ""
+    },
+    {
+      "pageName": "Rich Masoor Dal Made With Keema And Traditional Spices",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/rich-masoor-dal-made-with-keema-and-traditional-spices.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.37,
+      "error": ""
+    },
+    {
+      "pageName": "Aar Machher Jhol Traditional Spiced Bengali Fish Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aar-machher-jhol-traditional-spiced-bengali-fish-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.33,
+      "error": ""
+    },
+    {
+      "pageName": "Morola Lau Datar Chocchori Morola With Lau Saag Data",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/morola-lau-datar-chocchori-morola-with-lau-saag-data.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.08,
+      "error": ""
+    },
+    {
+      "pageName": "Takeaway Style Chili Gobi Classic Indo Chinese Side",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/takeaway-style-chili-gobi-classic-indo-chinese-side.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.98,
+      "error": ""
+    },
+    {
+      "pageName": "Spiced Capsicum And Potatoes In Butter",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spiced-capsicum-and-potatoes-in-butter.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 46.46,
+      "error": ""
+    },
+    {
+      "pageName": "Classic Fragrant Bengali Gondhoraj Pulao With Prawns",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/classic-fragrant-bengali-gondhoraj-pulao-with-prawns.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.8,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Sweet Potato Fried Rice With Cherries Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-sweet-potato-fried-rice-with-cherries-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.16,
+      "error": ""
+    },
+    {
+      "pageName": "Schezwan Echor Kofta A Decadent Bengali Chinese Fusion",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/schezwan-echor-kofta-a-decadent-bengali-chinese-fusion.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43,
+      "error": ""
+    },
+    {
+      "pageName": "Vegetable Tikki Butter Masala Veggie Patties In Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/vegetable-tikki-butter-masala-veggie-patties-in-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 73.24,
+      "error": ""
+    },
+    {
+      "pageName": "Pabda Fish In A Fragrant Tangy Spiced Radhuni Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pabda-fish-in-a-fragrant-tangy-spiced-radhuni-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 64.98,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Koi Fish In White Sesame And Mustard Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-koi-fish-in-white-sesame-and-mustard-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 69.95,
+      "error": ""
+    },
+    {
+      "pageName": "Masala Egg Poach Spiced Egg Poach In An Onion Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/masala-egg-poach-spiced-egg-poach-in-an-onion-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 53.38,
+      "error": ""
+    },
+    {
+      "pageName": "Bangla Dhonepata Murgi Chicken In Coriander Mint Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bangla-dhonepata-murgi-chicken-in-coriander-mint-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 110.67,
+      "error": ""
+    },
+    {
+      "pageName": "Laal Shaaker Tikka Recipe Crispy Red Amaranth Patties",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/laal-shaaker-tikka-recipe-crispy-red-amaranth-patties.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 87.8,
+      "error": ""
+    },
+    {
+      "pageName": "Chana Murg Bharta Chickpeas With Minced Chicken And Duck Eggs Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chana-murg-bharta-chickpeas-with-minced-chicken-and-duck-eggs-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 77.06,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Bengali Dim Basonti Recipe Spicy Egg Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-bengali-dim-basonti-recipe-spicy-egg-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 84.2,
+      "error": ""
+    },
+    {
+      "pageName": "Creamy Cottage Cheese Delight Paneer Madhuri Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/creamy-cottage-cheese-delight-paneer-madhuri-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 72.91,
+      "error": ""
+    },
+    {
+      "pageName": "Bhetki Gondhoraj Jhol Bengali Fish Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhetki-gondhoraj-jhol-bengali-fish-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 76.2,
+      "error": ""
+    },
+    {
+      "pageName": "Lal Mirch Mangsho Spicy Bengali Mutton Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/lal-mirch-mangsho-spicy-bengali-mutton-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 72.38,
+      "error": ""
+    },
+    {
+      "pageName": "Hariyali Dum Aloo Spinach Mint Potato Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/hariyali-dum-aloo-spinach-mint-potato-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 73.15,
+      "error": ""
+    },
+    {
+      "pageName": "Bhai Phota Special Paneer Festive Milky Paneer Delight",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhai-phota-special-paneer-festive-milky-paneer-delight.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 90.17,
+      "error": ""
+    },
+    {
+      "pageName": "Gondhoraj Katla Bhapa Steamed Katla In A Mustard Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/gondhoraj-katla-bhapa-steamed-katla-in-a-mustard-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 78.79,
+      "error": ""
+    },
+    {
+      "pageName": "Kaancha Kumror Bharta Spiced Mashed Green Pumpkin",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kaancha-kumror-bharta-spiced-mashed-green-pumpkin.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 72.49,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Daab Rui Rui Fish In Tender Coconut Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-daab-rui-rui-fish-in-tender-coconut-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.34,
+      "error": ""
+    },
+    {
+      "pageName": "Mochar Chop Classic Bengali Banana Flower Croquettes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mochar-chop-classic-bengali-banana-flower-croquettes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.95,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Beetroot Golla Snack Balls With Paneer Stuffing",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-beetroot-golla-snack-balls-with-paneer-stuffing.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.12,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Chingrir Paturi Prawns In Banana Leaf Wrap",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-chingrir-paturi-prawns-in-banana-leaf-wrap.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.11,
+      "error": ""
+    },
+    {
+      "pageName": "Paneer Darbari Soft Paneer In Creamy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/paneer-darbari-soft-paneer-in-creamy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.59,
+      "error": ""
+    },
+    {
+      "pageName": "Delicious Spice Crusted Ghee Roast Chicken Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/delicious-spice-crusted-ghee-roast-chicken-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 75.27,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Style Spicy Chicken Vindaloo Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-style-spicy-chicken-vindaloo-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.12,
+      "error": ""
+    },
+    {
+      "pageName": "Zero Oil Mutton Kulambu Mutton Pieces In Coconut Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/zero-oil-mutton-kulambu-mutton-pieces-in-coconut-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 34.16,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Chicken Sabekiyana Spice Infused Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-chicken-sabekiyana-spice-infused-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.96,
+      "error": ""
+    },
+    {
+      "pageName": "Lau Er Kofta Curry Paneer Stuffed Lauki Kofta Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/lau-er-kofta-curry-paneer-stuffed-lauki-kofta-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.32,
+      "error": ""
+    },
+    {
+      "pageName": "Classic Palak Chicken Creamy Spinach Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/classic-palak-chicken-creamy-spinach-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.64,
+      "error": ""
+    },
+    {
+      "pageName": "Punjabi Chicken Aromatic Spiced Indian Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/punjabi-chicken-aromatic-spiced-indian-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 91.24,
+      "error": ""
+    },
+    {
+      "pageName": "Gupi Bagha Chicken And Egg Stuffed Mushroom Skewers",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/gupi-bagha-chicken-and-egg-stuffed-mushroom-skewers.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.31,
+      "error": ""
+    },
+    {
+      "pageName": "Cheesy Baked Chicken Baked Chicken Cheese Casserole",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/cheesy-baked-chicken-baked-chicken-cheese-casserole.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.08,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Malaikari Bengali Chicken In Creamy Gravy Dish",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-malaikari-bengali-chicken-in-creamy-gravy-dish.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 115.12,
+      "error": ""
+    },
+    {
+      "pageName": "Makhani Murgh Classic Creamy Butter Chicken Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/makhani-murgh-classic-creamy-butter-chicken-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 330.69,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Kofta Spiced Chicken Kofta With Cream Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-kofta-spiced-chicken-kofta-with-cream-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.22,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Dopiyaza Chicken Curry With Onion Two Ways",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-dopiyaza-chicken-curry-with-onion-two-ways.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 37.92,
+      "error": ""
+    },
+    {
+      "pageName": "Authentic Amrita Shukto With Karela Masoor Dal Cutlets",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/authentic-amrita-shukto-with-karela-masoor-dal-cutlets.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.71,
+      "error": ""
+    },
+    {
+      "pageName": "Bengali Coco Paneer Recipe With Cashews Coconut Milk Poppy Seeds",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bengali-coco-paneer-recipe-with-cashews-coconut-milk-poppy-seeds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.78,
+      "error": ""
+    },
+    {
+      "pageName": "Lau Chingrir Mel Bandhan Lau Leaves And Prawn Bata",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/lau-chingrir-mel-bandhan-lau-leaves-and-prawn-bata.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.32,
+      "error": ""
+    },
+    {
+      "pageName": "Dim Paneer Er Jugalbandhi Steamed Egg Paneer Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/dim-paneer-er-jugalbandhi-steamed-egg-paneer-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.63,
+      "error": ""
+    },
+    {
+      "pageName": "Natkhat Chicken Tangy And Spicy Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/natkhat-chicken-tangy-and-spicy-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 86.32,
+      "error": ""
+    },
+    {
+      "pageName": "Maharani Chicken Succulent Chicken In Cashew Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/maharani-chicken-succulent-chicken-in-cashew-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.03,
+      "error": ""
+    },
+    {
+      "pageName": "Mughlai Chicken Curry Tender Chicken In Creamy Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/mughlai-chicken-curry-tender-chicken-in-creamy-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.71,
+      "error": ""
+    },
+    {
+      "pageName": "Murg Nur Jehani Shahi Chicken With Almond Spice",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/murg-nur-jehani-shahi-chicken-with-almond-spice.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 54.27,
+      "error": ""
+    },
+    {
+      "pageName": "Dim Bhapa Eggs Steamed In Bengali Sarso Coconut Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/dim-bhapa-eggs-steamed-in-bengali-sarso-coconut-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.46,
+      "error": ""
+    },
+    {
+      "pageName": "Kheer Bahari Dum Aloo Creamy Potato Curry With Chhana",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kheer-bahari-dum-aloo-creamy-potato-curry-with-chhana.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 56.56,
+      "error": ""
+    },
+    {
+      "pageName": "Chotpota Dim Shorshe Egg Curry In Fiery Mustard Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chotpota-dim-shorshe-egg-curry-in-fiery-mustard-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.59,
+      "error": ""
+    },
+    {
+      "pageName": "Ball Chilli Chicken Classic Chilli Chicken Meatballs",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/ball-chilli-chicken-classic-chilli-chicken-meatballs.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 45.36,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Methi Kaju Curry Creamy Nutty Chicken Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-methi-kaju-curry-creamy-nutty-chicken-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 49.52,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Shorshe Posto Chicken In Mustard Poppy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-shorshe-posto-chicken-in-mustard-poppy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 48.75,
+      "error": ""
+    },
+    {
+      "pageName": "Bahari Egg Curry Hard Boiled Eggs In Spicy Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bahari-egg-curry-hard-boiled-eggs-in-spicy-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.11,
+      "error": ""
+    },
+    {
+      "pageName": "Begun Bahar Brinjal In Tangy Mustard Poppy Seed Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/begun-bahar-brinjal-in-tangy-mustard-poppy-seed-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.53,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Chatpati Spicy And Tangy Chicken Curry Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-chatpati-spicy-and-tangy-chicken-curry-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 39.88,
+      "error": ""
+    },
+    {
+      "pageName": "Pastuni Chicken Drumsticks Creamy Smoky Chicken Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/pastuni-chicken-drumsticks-creamy-smoky-chicken-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 59.26,
+      "error": ""
+    },
+    {
+      "pageName": "Darbari Pepe Bengali Raw Papaya Curry With Potatoes",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/darbari-pepe-bengali-raw-papaya-curry-with-potatoes.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 55.02,
+      "error": ""
+    },
+    {
+      "pageName": "Spice Packed Malvani Chicken Curry With Coconut Paste",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spice-packed-malvani-chicken-curry-with-coconut-paste.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 65.25,
+      "error": ""
+    },
+    {
+      "pageName": "Fusion Bengali Turkish Chicken Chicken In Cheesy Sauce",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/fusion-bengali-turkish-chicken-chicken-in-cheesy-sauce.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 58.6,
+      "error": ""
+    },
+    {
+      "pageName": "Rajkumari Chicken Shahi Chicken With Cream Almonds",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/rajkumari-chicken-shahi-chicken-with-cream-almonds.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 64.41,
+      "error": ""
+    },
+    {
+      "pageName": "Aitijyobahi Katla R Rezala Katla Rezala Bengali Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aitijyobahi-katla-r-rezala-katla-rezala-bengali-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 59.91,
+      "error": ""
+    },
+    {
+      "pageName": "White Shahi Chicken Korma Creamy Chicken Korma Recipe",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/white-shahi-chicken-korma-creamy-chicken-korma-recipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 63.72,
+      "error": ""
+    },
+    {
+      "pageName": "Kadhi Makhana Creamy Yoghurt Based Makhana Curry",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/kadhi-makhana-creamy-yoghurt-based-makhana-curry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 63.96,
+      "error": ""
+    },
+    {
+      "pageName": "Baked Pav Bhaji Spiced Veg Mash With Toasted Bread",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/baked-pav-bhaji-spiced-veg-mash-with-toasted-bread.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 58.82,
+      "error": ""
+    },
+    {
+      "pageName": "Classic North Indian Chole With Fluffy Fried Bhature",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/classic-north-indian-chole-with-fluffy-fried-bhature.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 62.09,
+      "error": ""
+    },
+    {
+      "pageName": "Baked Shahi Paneer Oven Roasted Melt In Your Mouth Paneer",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/baked-shahi-paneer-oven-roasted-melt-in-your-mouth-paneer.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 63.9,
+      "error": ""
+    },
+    {
+      "pageName": "Spicy Stir Fried Haka Noodles With Chicken",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/spicy-stir-fried-haka-noodles-with-chicken.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 67.65,
+      "error": ""
+    },
+    {
+      "pageName": "Crispy Fried Vegetables Batter Coated Bite Sized Delights",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/crispy-fried-vegetables-batter-coated-bite-sized-delights.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 67.82,
+      "error": ""
+    },
+    {
+      "pageName": "Aloo Paratha Recipe Spiced Potato Stuffed Flatbread With A Twist",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/aloo-paratha-recipe-spiced-potato-stuffed-flatbread-with-a-twist.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 61.42,
+      "error": ""
+    },
+    {
+      "pageName": "Easy Quick Dum Aloo Soft Baby Potatoes In Velvety Gravy",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/easy-quick-dum-aloo-soft-baby-potatoes-in-velvety-gravy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 57.73,
+      "error": ""
+    },
+    {
+      "pageName": "Bhoger Labra Recipe Bengali Mixed Veggie Delight",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhoger-labra-recipe-bengali-mixed-veggie-delight.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.96,
+      "error": ""
+    },
+    {
+      "pageName": "Bhoger Khichuri Recipe Bengali Style Vegetarian Khichdi",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/bhoger-khichuri-recipe-bengali-style-vegetarian-khichdi.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 59.06,
+      "error": ""
+    },
+    {
+      "pageName": "Raj Kachori Recipe Crispy Chaat Filled With Chutney Sev",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/raj-kachori-recipe-crispy-chaat-filled-with-chutney-sev.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 26.57,
+      "error": ""
+    },
+    {
+      "pageName": "Vegetable Jalfrezi Recipe Quick Healthy Delicious",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/vegetable-jalfrezi-recipe-quick-healthy-delicious.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 88.5,
+      "error": ""
+    },
+    {
+      "pageName": "Stir Fried Mustard Fish Bengali Classic With Mustard Kick",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/stir-fried-mustard-fish-bengali-classic-with-mustard-kick.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 44.41,
+      "error": ""
+    },
+    {
+      "pageName": "Chicken Puff Recipe Flaky Puff Pastry With Creamy Chicken Filling",
+      "pageUrl": "https://sunrisespices.in/recipe-collection/chicken-puff-recipe-flaky-puff-pastry-with-creamy-chicken-filling.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.54,
+      "error": ""
+    },
+    {
+      "pageName": "About Us",
+      "pageUrl": "https://sunrisespices.in/about-us.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 51.61,
+      "error": ""
+    },
+    {
+      "pageName": "Faq",
+      "pageUrl": "https://sunrisespices.in/faq.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.3,
+      "error": ""
+    },
+    {
+      "pageName": "Contact Us",
+      "pageUrl": "https://sunrisespices.in/contact-us.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 159.93,
+      "error": ""
+    },
+    {
+      "pageName": "Terms And Conditions",
+      "pageUrl": "https://sunrisespices.in/terms-and-conditions.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 192.72,
+      "error": ""
+    },
+    {
+      "pageName": "Privacy Policy",
+      "pageUrl": "https://sunrisespices.in/privacy-policy.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 316.26,
+      "error": ""
+    },
+    {
+      "pageName": "Sitemap",
+      "pageUrl": "https://sunrisespices.in/sitemap.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.77,
+      "error": ""
+    },
+    {
+      "pageName": "Factory Locator",
+      "pageUrl": "https://sunrisespices.in/factory-locator.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 24.45,
+      "error": ""
+    },
+    {
+      "pageName": "Sunrise Bafoo",
+      "pageUrl": "https://sunrisespices.in/sunrise-bafoo.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 34.87,
+      "error": ""
+    },
+    {
+      "pageName": "Sunrise Moon",
+      "pageUrl": "https://sunrisespices.in/sunrise-moon.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 35.86,
+      "error": ""
+    },
+    {
+      "pageName": "Meghalaya X Sunrise Spices Masala",
+      "pageUrl": "https://sunrisespices.in/meghalaya-x-sunrise-spices-masala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.35,
+      "error": ""
+    },
+    {
+      "pageName": "Sunrise Soyacurry",
+      "pageUrl": "https://sunrisespices.in/sunrise-soyacurry.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 72.51,
+      "error": ""
+    },
+    {
+      "pageName": "Mysunriserecipe",
+      "pageUrl": "https://sunrisespices.in/mysunriserecipe.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 184.44,
+      "error": ""
+    },
+    {
+      "pageName": "Restaurant Magic",
+      "pageUrl": "https://sunrisespices.in/restaurant-magic.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 184.94,
+      "error": ""
+    },
+    {
+      "pageName": "Assam",
+      "pageUrl": "https://sunrisespices.in/assam.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 43.35,
+      "error": ""
+    },
+    {
+      "pageName": "Til Chicken",
+      "pageUrl": "https://sunrisespices.in/assam/til-chicken.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 41.95,
+      "error": ""
+    },
+    {
+      "pageName": "Jharkhand",
+      "pageUrl": "https://sunrisespices.in/jharkhand.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 42.02,
+      "error": ""
+    },
+    {
+      "pageName": "Meghalaya",
+      "pageUrl": "https://sunrisespices.in/meghalaya.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 38.97,
+      "error": ""
+    },
+    {
+      "pageName": "Chinese Masala",
+      "pageUrl": "https://sunrisespices.in/ChineseMasala.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 36.27,
+      "error": ""
+    },
+    {
+      "pageName": "Which Bengali Dish Are You",
+      "pageUrl": "https://sunrisespices.in/which-bengali-dish-are-you.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 26.76,
+      "error": ""
+    }
+  ],
+  "summary": {
+    "totalUrls": 353,
+    "healthyCount": 353,
+    "redirectedCount": 0,
+    "brokenCount": 0,
+    "averageResponseTimeMs": 122.57
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "sitemapUrl": "http://127.0.0.1:57969/sitemap.xml",
+  "generatedAt": "2026-04-20T05:48:17.919Z",
+  "options": {
+    "concurrency": 5,
+    "timeoutMs": 5000,
+    "retries": 1,
+    "maxUrls": 0
+  },
+  "results": [
+    {
+      "pageName": "Homepage",
+      "pageUrl": "http://127.0.0.1:57969/",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 13.11,
+      "error": ""
+    },
+    {
+      "pageName": "Profile Page",
+      "pageUrl": "http://127.0.0.1:57969/profile-page.html",
+      "category": "Healthy",
+      "statusCode": 200,
+      "responseTimeMs": 11.01,
+      "error": ""
+    },
+    {
+      "pageName": "Redirect Me",
+      "pageUrl": "http://127.0.0.1:57969/redirect-me",
+      "category": "Redirected",
+      "statusCode": 302,
+      "responseTimeMs": 10.48,
+      "error": ""
+    },
+    {
+      "pageName": "Missing Page",
+      "pageUrl": "http://127.0.0.1:57969/missing-page.html",
+      "category": "Broken",
+      "statusCode": 404,
+      "responseTimeMs": 15.03,
+      "error": ""
+    }
+  ],
+  "summary": {
+    "totalUrls": 4,
+    "healthyCount": 2,
+    "redirectedCount": 1,
+    "brokenCount": 1,
+    "averageResponseTimeMs": 12.41
+  }
+}

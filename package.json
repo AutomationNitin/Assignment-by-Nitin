@@ -1,0 +1,19 @@
+{
+  "name": "site-to-health-checker-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "check:sitemap": "node src/cli.js",
+    "demo": "node scripts/demo-runner.js",
+    "test": "node node_modules/@playwright/test/cli.js test",
+    "test:ui": "node node_modules/@playwright/test/cli.js test --ui",
+    "test:headed": "node node_modules/@playwright/test/cli.js test --headed",
+    "report": "node node_modules/@playwright/test/cli.js show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
